@@ -31,6 +31,9 @@ class App extends Stepan.Component {
     // Footer-----------------
     new Footer(divContainer).render(todos)
 
+    const adsfkj = Stepan.createElement('jasdhkgkjsdanandsfjlk', rootElement);
+
+
     return rootElement
   }
 }
